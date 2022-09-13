@@ -3,7 +3,7 @@
 /**
  *Print_alphabet - print alphabet in lowercase
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char lowercase
 	for (lowercase = 'a'; lowercase <= 'z'; lowercase++)
